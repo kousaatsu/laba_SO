@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ab5719d98b8eb84c8747856db404a80, type: 3}
   m_Name: NewGlobalConstantsSO
   m_EditorClassIdentifier: 
-  <g>k__BackingField: 0
-  <G>k__BackingField: 0
+  <g>k__BackingField: 0.8
+  <G>k__BackingField: 8.7e-11

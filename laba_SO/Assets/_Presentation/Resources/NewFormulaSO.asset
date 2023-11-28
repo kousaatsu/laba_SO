@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 822b367fcdd5eed4188d7d31ca85732a, type: 3}
   m_Name: NewFormulaSO
   m_EditorClassIdentifier: 
-  <Formula>k__BackingField: 
+  <Formula>k__BackingField: mv<sub>1</sub><sup>2</sup>/2 + mgh<sub>1</sub> = mv<sub>2</sub><sup>2</sup>/2
+    + mgh2
